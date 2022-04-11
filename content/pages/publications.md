@@ -11,7 +11,7 @@ Title:Publications
 
 
 <div style="text-align:justify" markdown="0.75">
-<ins>Adriano Muniz</ins>, Kazuya Tsukamoto, Kenji Kawahara, **“An In-home Performance Evaluation of PLC/WLAN Cooperative Transmission Scheme,**” IEICE General Conference, BS-3-3, Kusatsu, Shiga, Japan, March 2015.
+<ins>Adriano Albert Muniz</ins>, Kazuya Tsukamoto, Kenji Kawahara, **“An In-home Performance Evaluation of PLC/WLAN Cooperative Transmission Scheme,**” IEICE General Conference, BS-3-3, Kusatsu, Shiga, Japan, March 2015.
 </div>
 
 <!---<div style="text-align-last:right" markdown="0.75"> [PDF file here](/images/C.V.pdf) </div>--->
