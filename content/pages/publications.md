@@ -2,7 +2,7 @@ Title:Publications
 
 #### _Journal_ 
 <div style="text-align:justify" markdown="0.75">
-<ins>A. Muniz</ins>, K. Tsukamoto, M. Tsuru, Y. Oie:**“Network supported TCP Rate Control for the Coexistence of Multiple and Different Types of Flows on IP over PLC”**, The  IEICE Transactions on Communications, Vol. E96-B, No. 10, pp. 2587-2600, Oct. 2013. 
+<ins>Adriano Albert Muniz</ins>, K. Tsukamoto, M. Tsuru, Y. Oie:**“Network supported TCP Rate Control for the Coexistence of Multiple and Different Types of Flows on IP over PLC”**, The  IEICE Transactions on Communications, Vol. E96-B, No. 10, pp. 2587-2600, Oct. 2013. 
 [[PDF]](/images/e96-b_10_2587.pdf)
 </div> 
 
