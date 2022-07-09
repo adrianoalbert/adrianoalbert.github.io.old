@@ -103,8 +103,10 @@ THEME = "theme/css"
 PLUGIN_PATHS = ['./plugins']
 MARKUP = ('md', 'ipynb')
 
+#PLUGINS = ['gravatar', 'liquid_tags.youtube', 'liquid_tags.img', 'pelican_gist', 'ipynb.liquid', 'pelican_javascript']
 
-PLUGINS = ['gravatar', 'liquid_tags.youtube', 'liquid_tags.img', 'pelican_gist', 'ipynb.liquid', 'pelican_javascript']
+PLUGINS = ['gravatar', 'liquid_tags.youtube', 'liquid_tags.img', 'ipynb.liquid', ]
+
 
 
 # Uncomment following line if you want document-relative URLs when developing
