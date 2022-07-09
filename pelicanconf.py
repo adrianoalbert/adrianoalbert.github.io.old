@@ -92,7 +92,7 @@ DEFAULT_PAGINATION = 10
 NEWEST_FIRST_ARCHIVES = False
 
 # Specify theme
-THEME = "theme/pure"
+THEME = "theme/css"
 
 
 # Plugins
